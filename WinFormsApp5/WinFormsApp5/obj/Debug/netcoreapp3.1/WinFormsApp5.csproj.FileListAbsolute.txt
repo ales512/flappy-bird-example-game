@@ -1,0 +1,50 @@
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.exe
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.deps.json
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.json
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.dev.json
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.Form1.resources
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.Properties.Resources.resources
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.GenerateResource.cache
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfoInputs.cache
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfo.cs
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.dll
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.pdb
+C:\Users\JerAle\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.genruntimeconfig.cache
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.exe
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.deps.json
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.json
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.dev.json
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.dll
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.pdb
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.AssemblyReference.cache
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.Form1.resources
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.Properties.Resources.resources
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.GenerateResource.cache
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfoInputs.cache
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfo.cs
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.CoreCompileInputs.cache
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.dll
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.pdb
+D:\Ales Jeromel\Namizje\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.genruntimeconfig.cache
+D:\Desktop\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.exe
+D:\Desktop\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.deps.json
+D:\Desktop\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.json
+D:\Desktop\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.runtimeconfig.dev.json
+D:\Desktop\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.dll
+D:\Desktop\WinFormsApp5\WinFormsApp5\bin\Debug\netcoreapp3.1\WinFormsApp5.pdb
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.AssemblyReference.cache
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.Form1.resources
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.Properties.Resources.resources
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.GenerateResource.cache
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfoInputs.cache
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.AssemblyInfo.cs
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.csproj.CoreCompileInputs.cache
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.dll
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.pdb
+D:\Desktop\WinFormsApp5\WinFormsApp5\obj\Debug\netcoreapp3.1\WinFormsApp5.genruntimeconfig.cache
